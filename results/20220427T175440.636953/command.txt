@@ -1,0 +1,1 @@
+train_dqn_ale.py --env BreakoutNoFrameskip-v4 --arch doubledqn --final-exploration-frames 300000 --steps 330000
